@@ -1,0 +1,29 @@
+/* add code here to make your image 300px square */
+#pokemon {
+    height: 100px;
+    width: 100px;
+}
+
+/* add code here to change the color and font family of your name/title */
+#pokemon-name {
+    color: orange;
+    font-family: fantasy;
+}
+
+/* change the color of your list elements */
+/* li {
+    color: red
+} */
+
+/* Bonus: change the color of your EACH list elements */
+
+#li-1 {
+    color: rgb(255, 102, 0);
+    
+}
+#li-2 {
+    color: rgb(255, 13, 0);
+}
+#li-3 {
+    color: rgba(189, 46, 2, 0.848);
+}
